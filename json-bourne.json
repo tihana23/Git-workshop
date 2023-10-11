@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Jason",
+    "lastName": "Bourne",
+    "age": 40,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Kreutz",
+    "age": 32,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Pamela",
+    "lastName": "Landy",
+    "age": 45,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Nicky",
+    "lastName": "Parsons",
+    "age": 36,
+    "gender": "Female"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Webb",
+    "age": 38,
+    "gender": "Male"
+  }
+]
